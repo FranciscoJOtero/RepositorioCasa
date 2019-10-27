@@ -108,3 +108,16 @@
 .espaciadoentrepalabras{
     word-spacing: 15px;
 }
+
+h4{
+    text-shadow:10px 14px blue;/*Primera cifra a nivel horizontal. Segunda cifra a nivel vertical*/
+}
+
+@font-face{
+    font-family: familiafuente1;
+    src: url(../fonts/Modak-Regular.ttf);
+}
+
+.pruebafuentepersonalizada{
+    font-family: familiafuente1;
+}
