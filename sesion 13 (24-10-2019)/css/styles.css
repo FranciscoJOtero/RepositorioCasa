@@ -1,0 +1,16 @@
+.dimensionescapa{
+    width:70%;
+    height:400px;
+    margin:auto;
+    border: 2px solid blue;
+}
+.padding1{
+    padding-top:30px;
+    padding-left:40px;
+    padding-bottom: 50px;
+    padding-right:20px;
+}
+.paddinggeneral{
+    padding:50px;
+    margin-top:30px;
+}
