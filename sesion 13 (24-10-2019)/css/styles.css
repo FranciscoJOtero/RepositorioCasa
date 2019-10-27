@@ -73,3 +73,24 @@
 .alineacionjustificada{
     text-align: justify;
 }
+.tachado{
+    text-decoration: line-through;
+}
+.subrayado{
+    text-decoration: underline;
+}
+.sobrerrayado{
+    text-decoration: overline;
+}
+.transformacionmin{
+    text-transform: lowercase;
+}
+.transformacionmay{
+    text-transform: uppercase;
+}
+.transformacioncap{
+    text-transform: capitalize;
+}
+.identacion{
+    text-indent: 40px;
+}
