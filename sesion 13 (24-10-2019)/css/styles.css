@@ -94,3 +94,17 @@
 .identacion{
     text-indent: 40px;
 }
+
+.espaciadoentreletras{
+    letter-spacing: 4px;
+}
+.alturadelinea{
+    line-height: 1.6;
+}
+.direcciondeltexto{
+    direction: rtl;
+}
+
+.espaciadoentrepalabras{
+    word-spacing: 15px;
+}
