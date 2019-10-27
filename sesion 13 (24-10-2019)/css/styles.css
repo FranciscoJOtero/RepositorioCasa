@@ -14,3 +14,19 @@
     padding:50px;
     margin-top:30px;
 }
+.capaalturaminima{
+    width:60%;
+    min-height:500px;/*Altura mínima. Si el contenedor necesita crecer porque el contenido lo desborda, lo hará hasta que necesite*/
+    border: solid 1px black;
+    margin:auto;
+    margin-top:50px;
+}
+.capaalturaminimamaxima{
+    width:60%;
+    min-height:500px;/*Altura mínima. Si el contenedor necesita crecer porque el contenido lo desborda, lo hará hasta que necesite*/
+    border: solid 1px purple;
+    margin:auto;
+    margin-top:50px;
+    max-height: 1000px;
+    overflow:auto;
+}
