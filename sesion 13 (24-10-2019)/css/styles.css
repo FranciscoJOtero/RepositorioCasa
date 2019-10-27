@@ -61,3 +61,15 @@
 .clearfix{
     display: flow-root;
 }
+.alineacionderecha{
+    text-align: right;
+}
+.alineacionizquierda{
+    text-align: left;
+}
+.alineacioncentrada{
+    text-align: center;
+}
+.alineacionjustificada{
+    text-align: justify;
+}
